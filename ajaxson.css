@@ -1,0 +1,30 @@
+.container{
+    border: 2px solid rgb(59, 59, 87);
+    padding: 100px 100px;
+    
+    text-align: center;
+    
+    
+}
+h1{
+    color:black;
+    text-align: center;
+}
+
+#box1{
+    /*margin:0 auto; */
+    padding: 30px 30px;
+    border: 2px solid blue;
+    background-color:rgb(194, 194, 241);
+    border-radius:10px;
+    padding-bottom: 20px;
+    margin-bottom: 50px;
+}
+
+#box2{
+    margin:30px, 30px, 30px, 30px;
+    background-color:rgb(194, 194, 241);
+    border: 2px solid rgb(67, 67, 138);
+    padding: 30px 30px;
+    border-radius: 10px;
+}
